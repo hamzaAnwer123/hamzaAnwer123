@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Frontend+Developer+%7C+React+%26+Tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer working animation" />
-</p>
-
-
 
 ---
 
